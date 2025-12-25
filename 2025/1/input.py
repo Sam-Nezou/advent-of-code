@@ -4433,8 +4433,8 @@ input = [
 "R3",
 ]
 
-currentVal = 50
-vals = [currentVal]
+startVal = 50
+vals = [startVal]
 valMin = 0
 valMax = 100
 cpt = 0
